@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding and work on a project.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
-## My projects
-
-![Sheet GitHub Projects](https://user-images.githubusercontent.com/118753153/212540972-dfdfe7b0-38ca-48f8-939c-c0d916bfe335.jpg)
+## Socials
+[!Twitter][twitter.com/@toto_gaming3]
+[!Youtube][youtube.com/@toto_gaming3]
