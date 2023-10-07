@@ -4,7 +4,7 @@ J'ai récemment perdu mon dossier de projets Python (sans backup). J'essaie de r
 
 ## Qu'est-ce que je fais?
 - Du Python
-- C'est tout
+- Du design PowerPoint (de code)
 
 ## Qui suis-je?
 - Quelqu'un qui fait du code et du design PowerPoint.
