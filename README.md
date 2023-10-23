@@ -1,6 +1,4 @@
 # 👋 Salut! Mon nom est TotoCode.
-## Attention:
-J'ai récemment perdu mon dossier de projets Python (sans backup). J'essaie de réparer ce problème le plus vite possible.
 
 ## Qu'est-ce que je fais?
 - Du Python
