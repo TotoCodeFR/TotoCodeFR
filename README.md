@@ -1,11 +1,10 @@
 # 👋 Salut! Mon nom est TotoCode.
 
 ## Qu'est-ce que je fais?
-- Du Python
-- Du design PowerPoint (de code)
+Si ça se voit pas, j'aime bien coder, spécialement en Python!
 
 ## Qui suis-je?
-- Quelqu'un qui fait du code et du design PowerPoint.
+Je suis un développeur depuis 3 ans (à partir de 2023). J'ai commencé sur Roblox (oui, c'est vrai). Le temps passe, j'ai commencé à m'intéresser vers Python. Je m'améliore, petit à petit, puis me voilà!
 
 ## Où me trouver?
 [X (Twitter)](https://www.twitter.com/TotoCodeFR)
