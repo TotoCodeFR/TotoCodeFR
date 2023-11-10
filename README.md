@@ -8,3 +8,6 @@ Je suis un développeur depuis 3 ans (à partir de 2023). J'ai commencé sur Rob
 
 ## Mes statistiques
 <img src="https://myreadme.vercel.app/api/embed/TotoCodeFR?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+## Mes repos
+[![Sampy](https://github-readme-stats.vercel.app/api/pin/?username=TotoCodeFR&repo=Sampy)](https://github.com/TotoCodeFR/Sampy)
