@@ -8,4 +8,4 @@ Je suis un développeur depuis 3 ans (à partir de 2023). J'ai commencé sur Rob
 
 # Mes statistiques
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TotoCodeFR&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<img src="https://metrics.lecoq.io/TotoCodeFR?template=classic&base.header=0&gists=1&lines=1&config.timezone=France%2FParis" />
