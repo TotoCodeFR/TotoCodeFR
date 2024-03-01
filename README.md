@@ -13,3 +13,5 @@ Je suis un développeur depuis 3 ans (à partir de 2023). J'ai commencé sur Rob
 [![PyTune](https://github-readme-stats.vercel.app/api/pin/?username=TotoCodeFR&repo=PyTune)](https://github.com/TotoCodeFR/PyTune)
 [![Sampy](https://github-readme-stats.vercel.app/api/pin/?username=TotoCodeFR&repo=Sampy)](https://github.com/TotoCodeFR/Sampy)
 
+> Tu veux plus d'infos? Clique [ici](https://github.com/TotoCodeFR/TotoCodeFR) :).
+
