@@ -1,4 +1,4 @@
-# 👋 Hey ! My name is TotoCode !
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey you!
 ## Who am I ?
 I am a Python developer for a year and a half (since 2023) and I have started in 2019 on Roblox and my 2015 laptop (that I am still using for Roblox).
 
