@@ -1,9 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey you!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey!
 ## Who am I ?
-I am a Python developer for a year and a half (since 2023) and I have started in 2019 on Roblox and my 2015 laptop (that I am still using for Roblox).
+I'm a fullstack developer in NodeJS, HTML/CSS/JS, Python and Luau (Roblox Studio).
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,vscode,windows,robloxstudio)](https://skillicons.dev)
 
 > [Click here for more](https://github.com/TotoCodeFR/TotoCodeFR).
 
