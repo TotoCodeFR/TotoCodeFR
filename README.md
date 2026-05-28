@@ -1,7 +1,5 @@
-French fullstack dev
+french fullstack dev
 
-**Likes**: NodeJS, Python, Roblox Luau, open-source, web
+specializes in NodeJS, HTML and Roblox Luau
 
-**Learning**: Bun + TypeScript
-
-> [Click here for more](https://github.com/TotoCodeFR/TotoCodeFR).
+working on [Nuit](https://github.com/Nuit-Bot/Nuit), an open-source Discord bot
