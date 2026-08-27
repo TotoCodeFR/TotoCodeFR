@@ -9,7 +9,6 @@ I'm a full-stack developer with a focus on TypeScript, Node.js, React, and Luau.
 ## Current Projects
 
 - **Spawnpad:** A Roblox game launcher and social experience. Includes game discovery and will include parties, music integration, and an SDK for developers. [<kbd><img src="https://favicool.com/api/icon?domain=roblox.com&sz=128" height="14" width="14"></kbd>](https://www.roblox.com/games/102995663268405/Spawnpad "Roblox Game")
-- **Orbit:** A UI framework used by Spawnpad. May become open source in the future. [<kbd><img src="https://favicool.com/api/icon?domain=roblox.com&sz=128" height="14" width="14"></kbd>](https://www.roblox.com/games/102995663268405/Spawnpad "Roblox Game")
 - **Nuit:** A free, multi-purpose, open source Discord bot, now discontinued. [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/Nuit-Bot/ "GitHub Org")
 
 ## Tech Stack
@@ -35,3 +34,5 @@ I mostly respond on Discord, so contact me there.
 
 - [Twitter](https://x.com/TotoCodeFR)
 - [Discord](https://discord.com/users/817758821312495627)
+
+_PS: please don't email me for any work proposals, I won't reply nor accept them._
